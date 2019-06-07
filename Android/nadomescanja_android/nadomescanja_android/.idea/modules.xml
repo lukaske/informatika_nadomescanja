@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nadomescanja_android.iml" filepath="$PROJECT_DIR$/nadomescanja_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nadomescanja_parser-b803095bf03d3460c2dceb2660279188852fbc1a.iml" filepath="$PROJECT_DIR$/nadomescanja_parser-b803095bf03d3460c2dceb2660279188852fbc1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nadomescanjaparser.iml" filepath="$PROJECT_DIR$/nadomescanjaparser.iml" />
+    </modules>
+  </component>
+</project>
